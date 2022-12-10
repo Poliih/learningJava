@@ -6,7 +6,7 @@ class Ex2 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-			double raio,area, pi = 1.14159;
+			double raio,area, pi = 3.14159;
 			
 			raio = sc.nextDouble();
 			
